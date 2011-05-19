@@ -20,4 +20,28 @@ Know Issues
 * * *
 
 
+filmstrip-0.1.1
+===============
+
+Commited on May 19, 2011 by M Valenzuela <so.phis.ti.kat@marlonvalenzuela.net>
+
+Major Code Changes
+------------------
+* Allow children to have their own dimensions (width+height)
+* Change default value for inView to 1; ensures that isLastFrame calculates correctly
+
+Minor Code Changes
+------------------
+* missing char @line 25 spce:space
+* move some logic outside of create() and created addNextPosition()
+
+Know Issues
+-----------
+* Not all callbacks have been implemented
+* Vertical option has yet to be tested
+
+
+* * *
+
+
 
