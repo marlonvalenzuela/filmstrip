@@ -1,0 +1,23 @@
+filmstrip-0.1.0
+===============
+
+Commited on May 18, 2011 by M Valenzuela <so.phis.ti.kat@marlonvalenzuela.net>
+
+Major Code Changes
+------------------
+* Add Plugin generator plugin by Jamie Talbot <http://jamietalbot.com>
+* Allow multiple instances
+* Seperate public and private methods
+
+Know Issues
+-----------
+* Not all callbacks have been implemented
+* Children cannot have their own width
+* Vertical option has yet to be tested
+
+
+
+* * *
+
+
+
